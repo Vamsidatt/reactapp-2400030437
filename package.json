@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Vamsidatt/reactapp-2400030437",
+  "homepage": "https://github.io/Vamsidatt/reactapp-2400030437",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
